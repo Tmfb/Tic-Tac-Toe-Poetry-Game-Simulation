@@ -1,0 +1,13 @@
+# Pycache
+__pycache__
+
+# Ignore the code workspace file
+*.code-workspace
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
