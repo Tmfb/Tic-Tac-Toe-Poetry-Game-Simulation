@@ -1,0 +1,29 @@
+{
+    "yellow":{
+        "adjetivos":[["blando","comodo"],["verde","feo"],["intimo","soleado"],["quieto","firme"]],
+        "determinantes":[["poca","primero"],["su","suyo"],["eso","esta"]],
+        "verbos":[["saltar","construir"],["escucha","cuida"],["aparece","brilla"]],
+        "sustantivos":[["casa","hogar"],["suelo","calle"],["charco","arena"],["risa","cama"],["cesta","luz"]],
+        "adverbios":[["fuera","dentro"],["entonces","luego"],["ahora","hoy"],["donde","también"]],
+        "signos":[["!",","],["-","..."]],
+        "articulos":[["del","al"],["los","las"],["unos","unas"]],
+        "pronombres":[["ella","el"],["nosotrxs","vosotrxs"]],
+        "conjunciones":[["pues","aunque"]],
+        "preposiciones":[["con","sin"],["segun","sobre"]],
+        "interjecciones":[["eh!","viva!"]]
+    },
+    "blue":{
+        "adjetivos":[["tibio","dulce"],["mini","pequeno"],["colorido","gris"],["lejos","cerca"]],
+        "determinantes":[["este","aquel"],["mi","tu"],["nuestra","vuestra"]],
+        "verbos":[["mancho","sueno"],["jugar","cantar"],["fue","volvio"]],
+        "sustantivos":[["playa","salon"],["amigx","familia"],["bosque","lluvia"],["mesa","lapiz"],["ruido","fantasia"]],
+        "adverbios":[["quizas","nunca"],["a veces","siempre"],["ayer","manana"],["muy","mucho"]],
+        "signos":[[".","!"],["?",":"]],
+        "articulos":[["la","lo"],["un","una"],["el","las"]],
+        "pronombres":[["yo","tu"],["le","la"]],
+        "conjunciones":[["pero","ni"]],
+        "preposiciones":[["a","desde"],["durante","por"]],
+        "interjecciones":[["etc","ay!"]]
+        
+    }
+}
